@@ -1,6 +1,6 @@
 {
   "name": "hubot-taka",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that respond \"鷹に決まってるじゃねえか\"",
   "main": "index.js",
   "scripts": {
