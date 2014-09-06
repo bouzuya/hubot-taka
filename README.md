@@ -2,6 +2,8 @@
 
 A Hubot script that respond "鷹に決まってんじゃねえか"
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140906/20140906180403.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-taka.git
@@ -12,9 +14,6 @@ or
     $ npm install 'git://github.com/bouzuya/hubot-taka.git#TAG'
 
 ## Example
-
-    bouzuya> hubot help taka
-      hubot> hubot 一体何者なの？ - respond "鷹に決まってんじゃねえか"
 
     bouzuya> hubot 一体何者なの？
       hubot> 鷹に決まってんじゃねえか
